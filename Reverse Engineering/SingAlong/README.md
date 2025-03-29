@@ -18,7 +18,7 @@ i seee binja time
 i see main i see one if else 
 
 
-so i just patch it so it doenst fun the if function and never branch so i get the flag
+so i just patch it so it doesnt run the if function and never branch so i get the flag
 
 
 ![alt text](image-2.png)
